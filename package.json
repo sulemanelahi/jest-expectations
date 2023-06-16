@@ -1,0 +1,26 @@
+{
+  "name": "jest-expectation",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sulemanelahi/jest-expectations.git"
+  },
+  "keywords": [
+    "jest",
+    "unit-test",
+    "tdd",
+    "expectation",
+    "test",
+    "it",
+    "expect"
+  ],
+  "author": "Suleman Elahi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
